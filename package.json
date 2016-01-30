@@ -2,7 +2,7 @@
   "name": "uid",
   "version": "0.0.2",
   "description": "generate unique ids of variable length",
-  "main": "yes",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/MatthewMueller/uid.git"
